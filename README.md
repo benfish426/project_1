@@ -15,4 +15,4 @@ Explore the following components within this repository:
 
 
 ## Contact
-For questions, feedback, or inquiries about this project, please contact Anna Ramer (annaramer@yahoo.com) or Benjamin Fish via email at benjamin.fish426@gmail.com.
+For questions, feedback, or inquiries about this project, please contact Anna Ramer at annaramer@yahoo.com or Benjamin Fish via email at benjamin.fish426@gmail.com.
